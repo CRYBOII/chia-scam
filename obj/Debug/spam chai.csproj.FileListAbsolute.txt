@@ -1,0 +1,10 @@
+C:\Users\ZIGCER\source\repos\spam chai\spam chai\bin\Debug\spam chai.exe.config
+C:\Users\ZIGCER\source\repos\spam chai\spam chai\bin\Debug\spam chai.exe
+C:\Users\ZIGCER\source\repos\spam chai\spam chai\bin\Debug\spam chai.pdb
+C:\Users\ZIGCER\source\repos\spam chai\spam chai\obj\Debug\spam chai.csprojAssemblyReference.cache
+C:\Users\ZIGCER\source\repos\spam chai\spam chai\obj\Debug\spam_chai.Form1.resources
+C:\Users\ZIGCER\source\repos\spam chai\spam chai\obj\Debug\spam_chai.Properties.Resources.resources
+C:\Users\ZIGCER\source\repos\spam chai\spam chai\obj\Debug\spam chai.csproj.GenerateResource.cache
+C:\Users\ZIGCER\source\repos\spam chai\spam chai\obj\Debug\spam chai.csproj.CoreCompileInputs.cache
+C:\Users\ZIGCER\source\repos\spam chai\spam chai\obj\Debug\spam chai.exe
+C:\Users\ZIGCER\source\repos\spam chai\spam chai\obj\Debug\spam chai.pdb
